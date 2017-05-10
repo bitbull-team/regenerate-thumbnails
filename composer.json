@@ -1,0 +1,7 @@
+{
+  "name": "bitbull-team/regenerate-thumbnails",
+  "description": "Regenerate thumbnails for wordpress",
+  "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev"
+}
